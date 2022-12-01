@@ -8,4 +8,4 @@ def get_contr(*args, **kwargs):
 
     return print(response.json())
 
-print(get_contr(req='280102572282', key='69257345b1cc587c29cb45c9745a65c419a6cfc0'))
+print(get_contr(req='', key=''))
